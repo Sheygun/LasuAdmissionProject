@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1589600411 source:c:\users\user\desktop\lasuadmission\main.cpp
+	<iostream>
+	"libxl.h"
+	<iomanip>
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+	"IAutoFilterT.h"
+	"IFilterColumnT.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\setup.h
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\enum.h
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\iautofiltert.h
+	"setup.h"
+
+1492780338 c:\users\user\desktop\lasuadmission\include_cpp\ifiltercolumnt.h
+	"setup.h"
+	"enum.h"
+
+1589600411 source:c:\users\user\documents\lasuadmissionc++\main.cpp
+	<iostream>
+	"libxl.h"
+	<iomanip>
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+	"IAutoFilterT.h"
+	"IFilterColumnT.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\setup.h
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\enum.h
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\iautofiltert.h
+	"setup.h"
+
+1492780338 c:\users\user\documents\lasuadmissionc++\include_cpp\ifiltercolumnt.h
+	"setup.h"
+	"enum.h"
+
